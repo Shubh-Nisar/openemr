@@ -1,0 +1,16 @@
+{
+  "version": "2.2.0",
+  "summary": {
+    "title": "New Threat Model",
+    "owner": "Shubh Nisar",
+    "description": "OpenEMR Software Security",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "Jane Doe",
+    "threatTop": 0
+  }
+}
